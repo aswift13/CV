@@ -47,6 +47,8 @@ Program at BSU aimed at providing acedmic assitance to at-risk student-athletes.
 
 - Maintained grade records for 100+ students.
 - Graded lap reports\assingments and provided feedback on 
+
+
 ## Education
 
  **Bachelor of Science** in Physics and Geology  
