@@ -6,6 +6,16 @@ _Graduate student based in Muncie, Indiana_
 [Email](mailto:atsmoral13@protonmail.ch) / [Kaggle](https://www.kaggle.com/alanmorales) / [LinkedIn](www.linkedin.com/in/amorales13
 ) / [GitHub](https://github.com/aswift13)
 
+## Data Projects
+
+1. **Ball State Basketball Analysis**
+
+Using game log statistics on the 2021 - 2022 womens baskteball season, I'll be this to use and refine my data visualization skills. 
+
+2. **Taylor Swift NLP** 
+
+Looking to understand NLP by using Taylor Swift lyirics throughout her career for theme changes and recommendations. 
+
 
 ## Experience
 
