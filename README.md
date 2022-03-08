@@ -1,7 +1,7 @@
 
 # Alan Morales
 
-_Graduate student based in Muncie, Indiana_
+_Graduate student based in the Chicago metro area and Muncie, Indiana_
 
 [Email](mailto:atsmoral13@protonmail.ch) / [Kaggle](https://www.kaggle.com/alanmorales) / [LinkedIn](www.linkedin.com/in/amorales13
 ) / [GitHub](https://github.com/aswift13)
@@ -10,11 +10,11 @@ _Graduate student based in Muncie, Indiana_
 
 1. 🏀 **Ball State Basketball Analysis**
 
-Using game log statistics on the 2021 - 2022 womens baskteball season, I'll be this to use and refine my data visualization skills. 
+Using game log statistics on the 2021 - 2022 womens baskteball season, I'll be using this project to refine my data visualization skills. 
 
 2. 🐱 **Taylor Swift NLP** 
 
-Looking to understand NLP by using Taylor Swift lyirics throughout her career for theme changes and recommendations. 
+Looking to understand NLP by using Taylor Swift lyirics throughout her career for theme changes and predictive analysis. 
 
 
 ## 💼  Experience
@@ -55,10 +55,15 @@ Program at BSU aimed at providing acedmic assitance to at-risk student-athletes.
  Illinois State University _(August 2013 - August 2018)_
 
  **Master of Arts** in Statistics  
- Ball State University _(August 2021 - December 2022(Expected))_ 
+ Ball State University _(August 2021 - [exp]December 2022)_ 
 
 ### 📝 Relevant Courses
 
-- Differential and Integral Calculus, Linear Algebra, Differential Equations, Quantum Mechanics, Biophysics, Statics, Mineralogy, Statrigraphy, Mathematical Statistics, Stat Programming: Base SAS 9	+, Theory Sampling and Surveys, General Linear Model Applications, 	
 
+| Statistics | Math | Physics | Geology |
+| :---: | :---: |     :---:      |:---:|
+|Mathematical Statistics| Differential Calculus   | Quantum Mechanics     | Mineralogy    |
+|Theory of Sampling and Surveys| Integral Calculus     | Biophysics       | Stratigraphy      |
+|General Linear Model Applications|  Linear Algebra   | Statics     | Field Camp    |
+|Stat Programming: Base SAS 9	+| Differential Equations     | Electricity & Magnetism       | Sedimentology      |
 
