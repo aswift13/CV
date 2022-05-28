@@ -2,9 +2,9 @@
 # Alan Morales
 
 
-Ball State Statstics Master of Arts student based in the Chicago metro area. With three courses left in my MA Statistics program, the expected graduation date of 05/2023, I'm seeking opportunities in the Chicago metro area as a statistical analyst. Using this degree to concatenate careers and hobbies that involve my enthusiasm for music, sports (Manchester United/Chicago White Sox/Chicago Bulls), and data puzzling. 
+Ball State University Master of Arts student based in the Chicago metro area. With three courses left in my MA Statistics program, an expected graduation date of 05/2023, I'm seeking opportunities in the Chicago metro area as a statistical analyst. Using this degree to concatenate careers and hobbies that involve my enthusiasm for music, sports (Manchester United/Chicago White Sox/Chicago Bulls), and data puzzling. 
 
-Currently, my knowledge of data manipulation computer tools revolves around Excel, R, and SAS. With intermediate knowledge in all three. I am in the process of attaining my SAS 9.4 Base Programming certification by 07/2022. With tools and knowledge from statistics courses, I'm working on two projects surrounding the Ball State WBB team and Taylor Swifts Lyrics to refine my Excel, R, SAS, data visualization, and NLP/ML repertoire. Links to this coming soon(06/2022).
+Currently, my knowledge of data manipulation tools revolves around Excel, R, and SAS. With intermediate knowledge in all three. I am in the process of attaining my SAS 9.4 Base Programming certification by 07/2022. With tools and knowledge from statistics courses, I'm working on two projects surrounding the Ball State WBB team and Taylor Swifts Lyrics to refine my Excel, R, SAS, data visualization, and NLP/ML repertoire. Links to this coming soon(06/2022).
 
 When I'm not on my computer I'm watching NBA games, discovering new tropical house remixes, and training for my next race.
 
