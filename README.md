@@ -61,7 +61,7 @@ Program at BSU aimed at providing academic assistance to at-risk student-athlete
  Illinois State University _(August 2013 - August 2018)_
 
  **Master of Arts** in Statistics  
- Ball State University _(August 2021 - [exp]December 2022)_ 
+ Ball State University _(August 2020 - [exp]May 2023)_ 
 
 ### 📝 Relevant Courses
 
