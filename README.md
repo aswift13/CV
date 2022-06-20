@@ -16,7 +16,7 @@ When I'm not on my computer I'm watching NBA games, discovering new tropical hou
 
 1. 🏀 **Ball State Basketball Analysis**
 
-Using game log statistics on the 2021 - 2022 Ball State Women's Basketball season, I'll be using this project to refine my data visualization skills. 
+Using game log statistics on the 2021 - 2022 Ball State Women's Basketball season, I'll be using this project to refine my data visualization skills. [Kaggle Link](https://www.kaggle.com/alanmorales/bsu-wbb-21-22)
 
 2. 🐱 **Taylor Swift NLP** 
 
