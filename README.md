@@ -23,6 +23,7 @@ Using game log statistics on the 2021 - 2022 Ball State Women's Basketball seaso
 2. 🐱 **Taylor Swift NLP** 
 
 Looking to understand NLP by using Taylor Swift lyrics throughout her career for theme changes and predictive analysis. 
+
  [Kaggle Link](https://www.kaggle.com/code/alanmorales/taylor-swift-lyric-eda)
 
 ## 💼  Experience
