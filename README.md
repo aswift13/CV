@@ -16,16 +16,16 @@ When I'm not on my computer I'm watching NBA games, discovering new tropical hou
 
 1. 🏀 **MAC Basektball Feature Selection Techniques**
 
- [Kaggle Link]()
+ [Rpubs Link](https://rpubs.com/Dresden2013/1035432)
 
-Using game log statistics on the 2021 - 2022 Ball State Women's Basketball season, I'll be using this project to refine my data visualization skills.
+Utilizing feature selection methods to create binary classifcation models to predict results. 
 
 2. 🐱 **Taylor Swift NLP** 
 
+ [Kaggle Link](https://www.kaggle.com/code/alanmorales/taylor-swift-lyric-eda)
+
 Looking to understand NLP by using Taylor Swift lyrics throughout her career for theme changes and predictive analysis. 
 
- [Kaggle Link](https://www.kaggle.com/code/alanmorales/taylor-swift-lyric-eda)
- 
  3. 🏀 **Ball State Basketball Analysis**
 
  [Kaggle Link](https://www.kaggle.com/alanmorales/bsu-wbb-21-22)
@@ -34,29 +34,20 @@ Using game log statistics on the 2021 - 2022 Ball State Women's Basketball seaso
 
 ## 💼  Experience
 
-**Student Athlete Mentor** @ [SASS Ball State University](https://www.bsu.edu/about/administrativeoffices/sass) _(August 2021 - Present)_
+
+**Amazon Fulfilment Center Associate** @ [MKE1](https://hiring.amazon.com/locations/kenosha-jobs#/) _(August 2022 - Present)_
+Packed and shipped Amazon packages.
+
+- Expected to understand aspects of production; adhere to strict safety, quality, and production standards.
+- Checked product on inbound / outbound to ensure that items and quantities are correct and that there is no damage.  
+
+
+**Student Athlete Mentor** @ [SASS Ball State University](https://www.bsu.edu/about/administrativeoffices/sass) _(August 2021 - May - 2022)_
 Program at BSU aimed at providing academic assistance to at-risk student-athletes.
 
 - Monitored and assisted students with their academics.
 - Maintained weekly goals accumulating to successful academic habits and grades.  
 
-**Back of House** @ [Brothers Bar and Grill](https://www.brothersbar.com/muncie) _(January 2021 - October 2022)_
-
-- Portioned, prepared, and bottled all menu items. 
-- Maintained Fry station 7pm to 2am for closing shifts. 
-- Flat top grill experience during rush hours(Family weekend).  
-
-**Spud and Sandwich Master** @ [McAlister's Deli](https://locations.mcalistersdeli.com/in/muncie/600-e-mcgalliard-rd) _(October 2021 - January 2022)_
-
-- Maintained and prepared spud station. 
-- Lined the sandwich station and restocked the lines.
-- Limited Expo experience in maintaining orders to FOH, stocking station and soup well. 
-
-**Back of House** @ [Fados Irish Pub](https://fadoirishpub.com/chicago/) _(May 2021 - August 2022)_ 
-
-- Fry cook .
-- Flat top cook.
-- Dish washer duties. 
 
 **Graduate Assistant** @ [Ball State University Department of Mathematical Sciences](https://www.bsu.edu/academics/collegesanddepartments/math) _(August 2021 - December 2021)_
 
