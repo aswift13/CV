@@ -14,9 +14,9 @@ When I'm not on my computer I'm watching NBA games, discovering new tropical hou
 
 ## 📘 Data Projects
 
-1. 🏀 **Ball State Basketball Analysis**
+1. 🏀 **MAC Basektball Feature Selection Techniques**
 
- [Kaggle Link](https://www.kaggle.com/alanmorales/bsu-wbb-21-22)
+ [Kaggle Link]()
 
 Using game log statistics on the 2021 - 2022 Ball State Women's Basketball season, I'll be using this project to refine my data visualization skills.
 
@@ -25,6 +25,12 @@ Using game log statistics on the 2021 - 2022 Ball State Women's Basketball seaso
 Looking to understand NLP by using Taylor Swift lyrics throughout her career for theme changes and predictive analysis. 
 
  [Kaggle Link](https://www.kaggle.com/code/alanmorales/taylor-swift-lyric-eda)
+ 
+ 3. 🏀 **Ball State Basketball Analysis**
+
+ [Kaggle Link](https://www.kaggle.com/alanmorales/bsu-wbb-21-22)
+
+Using game log statistics on the 2021 - 2022 Ball State Women's Basketball season, I'll be using this project to refine my data visualization skills.
 
 ## 💼  Experience
 
