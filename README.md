@@ -14,7 +14,7 @@ When I'm not on my computer I'm watching NBA games, discovering new tropical hou
 
 ## 📘 Data Projects
 
-1. 🏀 **MAC Basektball Feature Selection Techniques**
+1. 🏀 **MAC Basketball Feature Selection Techniques**
 
  [Rpubs Link](https://rpubs.com/Dresden2013/1035432)
 
