@@ -2,9 +2,11 @@
 # Alan Morales
 
 
-Ball State University Master of Arts student based in the Chicago metro area. With three courses left in my MA Statistics program, an expected graduation date of 05/2023, I'm seeking opportunities in the Chicago metro area as a statistical analyst. Using this degree to concatenate careers and hobbies that involve my enthusiasm for music, sports (Manchester United/Chicago White Sox/Chicago Bulls), and data puzzling. 
+Recent Master of Arts in Statistics graduate seeking opportunities in data science, data engineering, and analytical roles. 
 
-Currently, my knowledge of data manipulation tools revolves around Excel, R, and SAS. With intermediate knowledge in all three. I am in the process of attaining my SAS 9.4 Base Programming certification by 07/2022. With tools and knowledge from statistics courses, I'm working on two projects surrounding the Ball State WBB team and Taylor Swifts Lyrics to refine my Excel, R, SAS, data visualization, and NLP/ML repertoire. Links to this coming soon(06/2022).
+Highly proficient in both **SAS and R programming** with a high interest in finding insight in datasets that leads to actionable results.
+
+From extracting and engineering data from pdf tables and web sources that lead to datasets in which to perform a wide array of Exploratory Data Analysis, the longitudinal aspects in the data process are of high interest to me.   
 
 When I'm not on my computer I'm watching NBA games, discovering new tropical house remixes, and training for my next race.
 
@@ -18,13 +20,13 @@ When I'm not on my computer I'm watching NBA games, discovering new tropical hou
 
  [Rpubs Link](https://rpubs.com/Dresden2013/1035432)
 
-Utilizing feature selection methods to create binary classifcation models to predict results. 
+Utilizing feature selection methods to create binary classification models to predict results. 
 
 2. 🐱 **Taylor Swift NLP** 
 
  [Kaggle Link](https://www.kaggle.com/code/alanmorales/taylor-swift-lyric-eda)
 
-Looking to understand NLP by using Taylor Swift lyrics throughout her career for theme changes and predictive analysis. 
+Looking to understand NLP by using Taylor Swift's lyrics throughout her career for theme changes and predictive analysis. 
 
  3. 🏀 **Ball State Basketball Analysis**
 
