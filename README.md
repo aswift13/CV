@@ -11,8 +11,14 @@ From extracting and engineering data from pdf tables and web sources that lead t
 When I'm not on my computer I'm watching NBA games, discovering new tropical house remixes, and training for my next race.
 
 
-[Email](mailto:atsmoral13@protonmail.ch) / [Kaggle](https://www.kaggle.com/alanmorales) / [LinkedIn](www.linkedin.com/in/amorales13
+[Email](mailto:amoral271@outlook.com) / [Kaggle](https://www.kaggle.com/alanmorales) / [LinkedIn](www.linkedin.com/in/amorales13
 ) / [GitHub](https://github.com/aswift13)
+
+## Certificates
+
++ [SAS Certified Specialist: Base
+Programming Using SAS 9.4](https://www.credly.com/badges/7661e504-5125-468e-8cee-bc8466718c2e/public_url)
+
 
 ## 📘 Data Projects
 
