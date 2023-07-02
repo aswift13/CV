@@ -36,12 +36,18 @@ Utilizing feature selection methods to create binary classification models to pr
  [Kaggle Link](https://www.kaggle.com/code/alanmorales/taylor-swift-lyric-eda)
 
 Looking to understand NLP by using Taylor Swift's lyrics throughout her career for theme changes and predictive analysis. 
++ NLP
++ Data Cleaning
++ EDA
 
  3. 🏀 **Ball State Basketball Analysis**
 
  [Kaggle Link](https://www.kaggle.com/alanmorales/bsu-wbb-21-22)
 
 Using game log statistics on the 2021 - 2022 Ball State Women's Basketball season, I'll be using this project to refine my data visualization skills.
++ Statistical Analysis
++ Data Visualizations
++ Regression Analysis
 
 ## 💼  Experience
 
