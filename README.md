@@ -27,6 +27,9 @@ Programming Using SAS 9.4](https://www.credly.com/badges/7661e504-5125-468e-8cee
  [Rpubs Link](https://rpubs.com/Dresden2013/1035432)
 
 Utilizing feature selection methods to create binary classification models to predict results. 
++ Feature Reduction Techniques
++ Classification Predictions
++ Feature Engineering
 
 2. 🐱 **Taylor Swift NLP** 
 
