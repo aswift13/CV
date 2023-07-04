@@ -42,7 +42,7 @@ Looking to understand NLP by using Taylor Swift's lyrics throughout her career f
 
  3. 🏀 **Ball State Basketball Analysis**
 
- [Kaggle Link](https://www.kaggle.com/alanmorales/bsu-wbb-21-22)
+ [Rpubs Link](https://rpubs.com/Dresden2013/1059952)
 
 Using game log statistics on the 2021 - 2022 Ball State Women's Basketball season, I'll be using this project to refine my data visualization skills.
 + Statistical Analysis
