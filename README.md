@@ -33,7 +33,7 @@ Utilizing feature selection methods to create binary classification models to pr
 
 2. 🐱 **Taylor Swift NLP** 
 
- [Kaggle Link](https://www.kaggle.com/code/alanmorales/taylor-swift-lyric-eda)
+ [Rpubs Link](https://rpubs.com/Dresden2013/1060041)
 
 Looking to understand NLP by using Taylor Swift's lyrics throughout her career for theme changes and predictive analysis. 
 + NLP
