@@ -24,7 +24,7 @@ Programming Using SAS 9.4](https://www.credly.com/badges/7661e504-5125-468e-8cee
 
 1. 🏀 **MAC Basketball Feature Selection Techniques**
 
- [Rpubs Link](https://rpubs.com/Dresden2013/1057792)
+ [Rpubs Link](https://rpubs.com/Dresden2013/1060302)
 
 Basketball games in which MAC men's basketball teams participated were analyzed using feature reduction techniques in order to predict results. 
 
