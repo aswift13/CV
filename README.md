@@ -26,7 +26,16 @@ Programming Using SAS 9.4](https://www.credly.com/badges/7661e504-5125-468e-8cee
 
  [Rpubs Link](https://rpubs.com/Dresden2013/1057792)
 
-Utilizing feature selection methods to create binary classification models to predict results. 
+Basketball games in which MAC men's basketball teams participated were analyzed using feature reduction techniques in order to predict results. 
+
+Reduction techniques managed to reduce the dimensionality of the applied data set by more than half in most cases leading to computational time efficiency and a reduction in data complexity.
+
+Results predictions were classified after an 80/20 randomized training/test data split, an 80/20 split was chosen as the most common rule of thumb when splitting data for training purposes.
+
+Logistic regression consistently outperformed KNN classification with lower classified test errors, LOGisitc and KNN were chosen as the most popular classification techniques in data science. 
+
+Utilized paired sample T-Test to compare means of reduced variables in relation to results, paired t-test was chosen due to the two groups belonging to the same population. 
+
 + Feature Reduction Techniques
 + Classification Predictions
 + Feature Engineering
@@ -63,7 +72,7 @@ Packed and shipped Amazon packages.
 Program at BSU aimed at providing academic assistance to at-risk student-athletes.
 
 - Monitored and assisted students with their academics.
-- Maintained weekly goals accumulating to successful academic habits and grades.  
+- Maintained weekly goals accumulating successful academic habits and grades.  
 
 
 **Graduate Assistant** @ [Ball State University Department of Mathematical Sciences](https://www.bsu.edu/academics/collegesanddepartments/math) _(August 2021 - December 2021)_
