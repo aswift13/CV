@@ -58,6 +58,16 @@ Using game log statistics on the 2021 - 2022 Ball State Women's Basketball seaso
 + Data Visualizations
 + Regression Analysis
 
+
+ 3.  **Chicagoland KWH Pricing Analysis**
+
+ [Rpubs Link](https://rpubs.com/Dresden2013/1065507)
+
+Analyzed energy, financial and weather factors in order to price KWH in the Chicagoland metro area.
++ Statistical Analysis
++ Data Visualizations
++ Linear Regressional Analysis
+
 ## 💼  Experience
 
 
